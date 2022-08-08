@@ -1,0 +1,20 @@
+name: advanced_guidance
+description: An Advanced Guidance package that helps to easily build the application interactive tour.
+version: 0.0.1
+homepage: https://alexmelnyk.io
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+  flutter: ">=2.5.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
